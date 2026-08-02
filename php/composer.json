@@ -1,0 +1,9 @@
+{
+  "name": "certive/examples-php",
+  "description": "Certive EDMS API integration examples — PHP",
+  "require": {
+    "php": ">=8.0",
+    "guzzlehttp/guzzle": "^7.0",
+    "vlucas/phpdotenv": "^5.0"
+  }
+}

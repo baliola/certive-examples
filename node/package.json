@@ -1,0 +1,9 @@
+{
+  "name": "certive-examples-node",
+  "version": "1.0.0",
+  "description": "Certive EDMS API integration examples — Node.js",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
