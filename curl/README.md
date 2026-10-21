@@ -28,4 +28,4 @@ bash batch_stamp.sh ./doc1.pdf ./doc2.pdf ./doc3.pdf
 
 ## API Reference
 
-Full endpoint documentation: <https://api.certive.id/docs>
+Full endpoint documentation: <https://api.certive.io/docs>

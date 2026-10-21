@@ -10,7 +10,7 @@ use Dotenv\Dotenv;
 $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
-define('API_BASE', 'https://api.certive.id/api');
+define('API_BASE', 'https://api.certive.io/api');
 define('API_KEY',  $_ENV['CERTIVE_API_KEY'] ?? '');
 
 if (!API_KEY) {

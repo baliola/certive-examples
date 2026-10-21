@@ -1,13 +1,13 @@
 # Certive EDMS — Integration Examples
 
-Code examples for integrating with the [Certive EDMS API](https://api.certive.id/docs).
+Code examples for integrating with the [Certive EDMS API](https://api.certive.io/docs).
 
 These examples demonstrate how to:
 1. Compute a SHA-256 hash of a file **client-side** (the file never leaves your server)
 2. Stamp the document hash on the blockchain via the API
 3. Poll for on-chain confirmation
 
-> **Full API reference:** <https://api.certive.id/docs>
+> **Full API reference:** <https://api.certive.io/docs>
 
 ---
 

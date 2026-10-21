@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).parent / ".env")
 
-API_BASE = "https://api.certive.id/api"
+API_BASE = "https://api.certive.io/api"
 API_KEY  = (os.environ.get("CERTIVE_API_KEY") or "").strip() or None
 
 if not API_KEY:

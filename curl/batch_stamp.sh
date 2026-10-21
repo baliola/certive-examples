@@ -3,7 +3,7 @@
 
 set -euo pipefail
 
-API_BASE="https://api.certive.id/api"
+API_BASE="https://api.certive.io/api"
 
 if [[ -z "${CERTIVE_API_KEY:-}" ]]; then
   echo "Error: CERTIVE_API_KEY is not set."

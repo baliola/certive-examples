@@ -8,7 +8,7 @@ const path = require("path");
 
 require("dotenv").config({ path: path.join(__dirname, ".env") });
 
-const API_BASE = "https://api.certive.id/api";
+const API_BASE = "https://api.certive.io/api";
 const API_KEY = process.env.CERTIVE_API_KEY?.trim();
 
 if (!API_KEY) {
